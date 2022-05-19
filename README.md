@@ -4,11 +4,11 @@
 
 <br>
 
-- 🚵‍♂️ Currently working at PlusDelta
+- 🚵‍♂️ Currently working as a Backend Engineer at [Outlier.org](https://outlier.org)
 - 🏫 Indian Institute of Technology Kharagpur
 -  ✏️ Department of Metallurgical and Materials Engineering
 -  ✉️ email: velisojupranay@gmail.com
--  🌱 I'm currently learning AWS, Angular, Web3
+-  🌱 I'm currently learning Web3
 
 <br>
 
