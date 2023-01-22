@@ -4,11 +4,11 @@
 
 <br>
 
-- 🚵‍♂️ Currently working as a Backend Engineer at [Outlier.org](https://outlier.org)
+- 🚵‍♂️ Currently working as a Senior Software Engineer at [Lightmetrics.co](https://www.lightmetrics.co/)
 - 🏫 Indian Institute of Technology Kharagpur
 -  ✏️ Department of Metallurgical and Materials Engineering
 -  ✉️ email: velisojupranay@gmail.com
--  🌱 I'm currently learning Web3
+-  🌱 I'm currently learning more about Postgres
 
 <br>
 
