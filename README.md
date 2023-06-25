@@ -8,7 +8,7 @@
 - 🏫 Indian Institute of Technology Kharagpur
 -  ✏️ Department of Metallurgical and Materials Engineering
 -  ✉️ email: velisojupranay@gmail.com
--  🌱 I'm currently learning Golang and Postgres
+-  🌱 I'm currently learning Go and Postgres
 
 <br>
 
